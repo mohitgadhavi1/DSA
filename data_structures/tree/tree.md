@@ -1,0 +1,1 @@
+A tree data structure is a hierarchical data structure consisting of nodes(also called verticles) and edges that connect them. Each node in a tree has a parent node (except for the root node ), and zero or more child nodes.
