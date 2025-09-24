@@ -1,3 +1,6 @@
+from collections import deque, defaultdict
+import bisect
+
 class Router(object):
 
     def __init__(self, memoryLimit):
